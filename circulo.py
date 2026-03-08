@@ -1,0 +1,5 @@
+A=float(input("Ingrese el valor del radio"))
+PC=((2*3.1416)*A)
+print("Elperimetro del circulo es :",PC)
+AC=(3.1416*(PC))
+print("El area del circulo es :",AC)

@@ -1,0 +1,5 @@
+A=float(input("Ingrese la medida del lado"))
+PT=(3*(A))
+print("el perimetro del triangulo es :",PT)
+AT=(A*A/2)
+print("el area del trinagulo es :",AT)

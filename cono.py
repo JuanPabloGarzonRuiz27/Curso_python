@@ -1,0 +1,6 @@
+A=float(input("Ingrese el radio del cono"))
+B=float(input("Ingrese el valor de la altura"))
+VC=((B)*(3.1416**2/3))
+print("el volumen es:",VC)
+AC=(A)*(3.1416**2)
+print("El area es :";AC)
